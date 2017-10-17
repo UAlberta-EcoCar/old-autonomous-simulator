@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EcoCarSim.Plugins", "EcoCarSim.Plugins.csproj", "{BDFD44AA-7473-12FB-3F08-EE5BFA1DD916}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EcoCarSim", "EcoCarSim.csproj", "{C05A0D6A-77C4-A508-3796-96C3E40C6DAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EcoCarSim.Editor.Plugins", "EcoCarSim.Editor.Plugins.csproj", "{962F4AF7-7726-8E70-C4FD-C5DC19CA139A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDFD44AA-7473-12FB-3F08-EE5BFA1DD916}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDFD44AA-7473-12FB-3F08-EE5BFA1DD916}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDFD44AA-7473-12FB-3F08-EE5BFA1DD916}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDFD44AA-7473-12FB-3F08-EE5BFA1DD916}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C05A0D6A-77C4-A508-3796-96C3E40C6DAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C05A0D6A-77C4-A508-3796-96C3E40C6DAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C05A0D6A-77C4-A508-3796-96C3E40C6DAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C05A0D6A-77C4-A508-3796-96C3E40C6DAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{962F4AF7-7726-8E70-C4FD-C5DC19CA139A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{962F4AF7-7726-8E70-C4FD-C5DC19CA139A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{962F4AF7-7726-8E70-C4FD-C5DC19CA139A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{962F4AF7-7726-8E70-C4FD-C5DC19CA139A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

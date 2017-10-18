@@ -36,7 +36,7 @@ Option 2 (tweek mode):
 Know Issues:
 -Due to the low friction the tires RPM varies really drastically from frame to frame making the speed text mostly illegible. Although if you are 
  flying through the air it will work perfectly. The calculation in the code is still working as expected despite this behaviour.
--Drastically increasing the torque makes the car do some pretty fuckin', gnarly drifts; like some The Fast and The Furious level shit. Probably also mostly due to the
+-Drastically increasing the torque makes the car do some pretty fuckin' gnarly drifts; like some The Fast and The Furious level shit. Probably also mostly due to the
 wonky tire physics.
 -Increasing the numbers for the wheel colliders too much will change this into a EcoRocket simulator and the car will do its best Team Rocket impression by blasting
 off at near escape velocity. From what I can tell the slip numbers should be kept relatively small with a proportonially small difference between the Asymptote and Value
